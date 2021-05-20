@@ -32,6 +32,7 @@
     },
     "dependencies": {
         "express": "^4.17.1",
+        "mongoose": "^5.12.10",
         "validate.js": "^0.13.1"
     },
     "private": true
