@@ -1,7 +1,8 @@
 {
     "scripts": {
         "start": "nodemon -e ts,js --exec 'babel-node --extensions \".ts,.js\" src/'",
-        "generate-data": "babel-node -x .ts ./tools/parserData/ParserData.ts"
+        "generate-data": "babel-node -x .ts ./tools/parserData/ParserData.ts",
+        "test": "jest --detectOpenHandles --runInBand"
     },
     "main": "main.js",
     "browserslist": "> 0.25%, not dead",
