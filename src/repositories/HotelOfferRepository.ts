@@ -19,4 +19,5 @@ type QueryParams = {
     roomQuantity?: number;
     total?: number;
     'hotel.id'?: string;
+    'hotel.cityCode'?: string;
 };
