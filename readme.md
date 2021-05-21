@@ -106,7 +106,7 @@ This project it's a simplified version of an hotel search engine. It was develop
 
 After you already have these requirements:
 
-1. Clone this repository: `git clone https://github.com/daltroedu/framework-challenge.git`
+1. Clone this repository: `git clone https://github.com/goodeath/TUI-Stay-Challenge.git`
 2. Access directory: `cd tuigroup/`
 3. Install node_modules: `yarn install`
 4. Copy .env.example and fill with your data
