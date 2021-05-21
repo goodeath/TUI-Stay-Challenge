@@ -420,7 +420,7 @@ Default endpoint: `http://localhost:4000/...`
     ]
     ```
 
-### Testes
+### Tests
 
 1. Remind of fill .env db test variables
 2. You can run application tests by run following command: `yarn test`
