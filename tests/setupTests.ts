@@ -12,9 +12,7 @@ const {
     DB_TEST_PASSWORD,
     DB_TEST_NAME,
 } = process.env;
-console.log(
-    `mongodb://${DB_TEST_USER}:${DB_TEST_PASSWORD}@${DB_TEST_HOST}:27017/${DB_TEST_NAME}`
-);
+
 const connect = async () => {
     return connectDB(
         `mongodb://${DB_TEST_USER}:${DB_TEST_PASSWORD}@${DB_TEST_HOST}:27017/${DB_TEST_NAME}`,
@@ -76,10 +74,8 @@ export const beforeTestSuit = async () => {
     );
 
     await Promise.all(promises);
-    console.log('Test Database Configured');
 };
 
 export const afterTestSuit = async () => {
     await disconnect();
-    console.log('Disconnected from test database');
 };
