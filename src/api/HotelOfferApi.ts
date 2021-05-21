@@ -8,15 +8,19 @@ export class HotelOfferApi {
     }
 
     public list = async (request: any, response: any): Promise<void> => {
-        const { id, adults, available, roomQuantity, total } = request.query;
+        const { adults, available, roomQuantity, total } = request.query;
         this.repository
             .list({
-                id,
                 adults,
                 available,
                 roomQuantity,
                 total,
             })
             .then((data) => response.send(data));
+    };
+
+    public view = async (request: any, response: any): Promise<void> => {
+        const { id } = request.params;
+        this.repository.list({ id }).then((data) => response.send(data));
     };
 }
