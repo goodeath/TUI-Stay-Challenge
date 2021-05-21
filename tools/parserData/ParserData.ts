@@ -22,7 +22,11 @@ const parseHotelInformation = (
 
     const hotel: Hotel = {
         ...hotelFormat,
-        offers,
+        offers: offers.map((offer) => {
+            let tmp = { ...offer };
+            tmp.total = <any>parseFloat(offer.total);
+            return tmp;
+        }),
     };
 
     delete hotelFormat.offers;
