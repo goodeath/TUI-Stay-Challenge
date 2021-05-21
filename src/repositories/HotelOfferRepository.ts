@@ -14,4 +14,5 @@ type QueryParams = {
     available?: boolean;
     roomQuantity?: number;
     total?: number;
+    'hotel.id'?: string;
 };
