@@ -6,4 +6,5 @@ export type Hotel = {
     rating: number;
     cityCode: string;
     offers: HotelOffer[];
+    weather: any;
 };

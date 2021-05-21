@@ -12,14 +12,15 @@ const OUTPUT_PATH = path.join(__dirname, 'output');
 const parseHotelInformation = (
     hotelData: any,
     offersData: any,
-    isAvailable: boolean
+    isAvailable: boolean,
+    weather: any
 ) => {
     let offers: HotelOffer[] = offersData.map((offer: any) =>
         HotelOfferTransformer(offer, isAvailable)
     );
 
     const hotelFormat = HotelTransformer(hotelData);
-
+    hotelFormat.weather = weather[hotelFormat.cityCode];
     const hotel: Hotel = {
         ...hotelFormat,
         offers: offers.map((offer) => {
@@ -46,7 +47,22 @@ const parseHotelInformation = (
 
     let hotelCollection: Hotel[] = [];
     let offerCollection: HotelOffer[] = [];
-    let weatherCollection = [];
+    let weatherCollection: any = {};
+
+    weatherFiles.map(async (file) => {
+        const buffer: Buffer = await readFiles(
+            path.join(weatherDataPath, file)
+        );
+        const json = JSON.parse(Buffer.from(buffer).toString('utf8'));
+
+        weatherCollection[file] = json.DailyForecasts.map((daily: any) => {
+            return {
+                Date: daily.Date,
+                EpochDate: daily.EpochDate,
+                Temperature: daily.Temperature,
+            };
+        });
+    });
 
     const collectionPromises = hotelFiles.map(async (file) => {
         const buffer: Buffer = await readFiles(path.join(hotelDataPath, file));
@@ -56,7 +72,8 @@ const parseHotelInformation = (
             const { hotel, offers } = parseHotelInformation(
                 data.hotel,
                 data.offers,
-                data.available
+                data.available,
+                weatherCollection
             );
             hotelCollection.push(hotel);
             offerCollection = [...offerCollection, ...offers];

@@ -4,4 +4,11 @@ export type HotelOffer = {
     available: boolean;
     roomQuantity: number;
     total: string;
+    hotel: {
+        id: string;
+        name: string;
+        rating: number;
+        cityCode: string;
+        weather: any;
+    };
 };

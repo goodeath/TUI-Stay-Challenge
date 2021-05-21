@@ -61,83 +61,47 @@
                 "roomQuantity": 1,
                 "total": 1595
             }
-        ]
-    },
-    {
-        "id": "RTBGCIBI",
-        "cityCode": "BGC",
-        "name": "ibis Braganca",
-        "rating": 3,
-        "offers": [
+        ],
+        "weather": [
             {
-                "adults": 2,
-                "id": "LWA0TY7SN9",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
+                "Date": "2021-05-21T07:00:00+01:00",
+                "EpochDate": 1621576800,
+                "Temperature": {
+                    "Minimum": { "Value": 49, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 66, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "8V0I497AK3",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
+                "Date": "2021-05-22T07:00:00+01:00",
+                "EpochDate": 1621663200,
+                "Temperature": {
+                    "Minimum": { "Value": 46, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 61, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "H5N4ZXZOUJ",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
+                "Date": "2021-05-23T07:00:00+01:00",
+                "EpochDate": 1621749600,
+                "Temperature": {
+                    "Minimum": { "Value": 50, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 67, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "GCHR0DSIWV",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
+                "Date": "2021-05-24T07:00:00+01:00",
+                "EpochDate": 1621836000,
+                "Temperature": {
+                    "Minimum": { "Value": 47, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 67, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "7GJR3BBGPL",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
-            },
-            {
-                "adults": 2,
-                "id": "D9ZQZ8QPJU",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
-            },
-            {
-                "adults": 2,
-                "id": "U3XSCDS8WE",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 35.08
-            },
-            {
-                "adults": 2,
-                "id": "H551BSJP2Z",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 35.08
-            },
-            {
-                "adults": 2,
-                "id": "Q19HX9RH72",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
-            },
-            {
-                "adults": 2,
-                "id": "N0ZO75ZEK3",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 39.08
+                "Date": "2021-05-25T07:00:00+01:00",
+                "EpochDate": 1621922400,
+                "Temperature": {
+                    "Minimum": { "Value": 50, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -160,6 +124,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 114
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+01:00",
+                "EpochDate": 1621576800,
+                "Temperature": {
+                    "Minimum": { "Value": 49, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 70, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+01:00",
+                "EpochDate": 1621663200,
+                "Temperature": {
+                    "Minimum": { "Value": 44, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 63, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+01:00",
+                "EpochDate": 1621749600,
+                "Temperature": {
+                    "Minimum": { "Value": 49, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+01:00",
+                "EpochDate": 1621836000,
+                "Temperature": {
+                    "Minimum": { "Value": 47, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 69, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+01:00",
+                "EpochDate": 1621922400,
+                "Temperature": {
+                    "Minimum": { "Value": 50, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -239,6 +245,168 @@
                 "roomQuantity": 1,
                 "total": 39
             }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+01:00",
+                "EpochDate": 1621576800,
+                "Temperature": {
+                    "Minimum": { "Value": 49, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 70, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+01:00",
+                "EpochDate": 1621663200,
+                "Temperature": {
+                    "Minimum": { "Value": 44, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 63, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+01:00",
+                "EpochDate": 1621749600,
+                "Temperature": {
+                    "Minimum": { "Value": 49, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+01:00",
+                "EpochDate": 1621836000,
+                "Temperature": {
+                    "Minimum": { "Value": 47, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 69, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+01:00",
+                "EpochDate": 1621922400,
+                "Temperature": {
+                    "Minimum": { "Value": 50, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
+            }
+        ]
+    },
+    {
+        "id": "RTBGCIBI",
+        "cityCode": "BGC",
+        "name": "ibis Braganca",
+        "rating": 3,
+        "offers": [
+            {
+                "adults": 2,
+                "id": "LWA0TY7SN9",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            },
+            {
+                "adults": 2,
+                "id": "8V0I497AK3",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            },
+            {
+                "adults": 2,
+                "id": "H5N4ZXZOUJ",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            },
+            {
+                "adults": 2,
+                "id": "GCHR0DSIWV",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            },
+            {
+                "adults": 2,
+                "id": "7GJR3BBGPL",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            },
+            {
+                "adults": 2,
+                "id": "D9ZQZ8QPJU",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            },
+            {
+                "adults": 2,
+                "id": "U3XSCDS8WE",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 35.08
+            },
+            {
+                "adults": 2,
+                "id": "H551BSJP2Z",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 35.08
+            },
+            {
+                "adults": 2,
+                "id": "Q19HX9RH72",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            },
+            {
+                "adults": 2,
+                "id": "N0ZO75ZEK3",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 39.08
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00-03:00",
+                "EpochDate": 1621591200,
+                "Temperature": {
+                    "Minimum": { "Value": 74, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 87, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00-03:00",
+                "EpochDate": 1621677600,
+                "Temperature": {
+                    "Minimum": { "Value": 75, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 91, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00-03:00",
+                "EpochDate": 1621764000,
+                "Temperature": {
+                    "Minimum": { "Value": 76, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 91, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00-03:00",
+                "EpochDate": 1621850400,
+                "Temperature": {
+                    "Minimum": { "Value": 75, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 90, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00-03:00",
+                "EpochDate": 1621936800,
+                "Temperature": {
+                    "Minimum": { "Value": 75, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 90, "Unit": "F", "UnitType": 18 }
+                }
+            }
         ]
     },
     {
@@ -260,6 +428,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 340.91
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00-03:00",
+                "EpochDate": 1621591200,
+                "Temperature": {
+                    "Minimum": { "Value": 78, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00-03:00",
+                "EpochDate": 1621677600,
+                "Temperature": {
+                    "Minimum": { "Value": 76, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 82, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00-03:00",
+                "EpochDate": 1621764000,
+                "Temperature": {
+                    "Minimum": { "Value": 77, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 82, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00-03:00",
+                "EpochDate": 1621850400,
+                "Temperature": {
+                    "Minimum": { "Value": 75, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00-03:00",
+                "EpochDate": 1621936800,
+                "Temperature": {
+                    "Minimum": { "Value": 78, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -325,6 +535,48 @@
                 "roomQuantity": 1,
                 "total": 301.35
             }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00-03:00",
+                "EpochDate": 1621591200,
+                "Temperature": {
+                    "Minimum": { "Value": 78, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00-03:00",
+                "EpochDate": 1621677600,
+                "Temperature": {
+                    "Minimum": { "Value": 76, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 82, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00-03:00",
+                "EpochDate": 1621764000,
+                "Temperature": {
+                    "Minimum": { "Value": 77, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 82, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00-03:00",
+                "EpochDate": 1621850400,
+                "Temperature": {
+                    "Minimum": { "Value": 75, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00-03:00",
+                "EpochDate": 1621936800,
+                "Temperature": {
+                    "Minimum": { "Value": 78, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
+            }
         ]
     },
     {
@@ -388,6 +640,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 3150
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00-03:00",
+                "EpochDate": 1621591200,
+                "Temperature": {
+                    "Minimum": { "Value": 78, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00-03:00",
+                "EpochDate": 1621677600,
+                "Temperature": {
+                    "Minimum": { "Value": 76, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 82, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00-03:00",
+                "EpochDate": 1621764000,
+                "Temperature": {
+                    "Minimum": { "Value": 77, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 82, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00-03:00",
+                "EpochDate": 1621850400,
+                "Temperature": {
+                    "Minimum": { "Value": 75, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00-03:00",
+                "EpochDate": 1621936800,
+                "Temperature": {
+                    "Minimum": { "Value": 78, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 83, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -558,6 +852,48 @@
                 "roomQuantity": 1,
                 "total": 104
             }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 58, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 79, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 55, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 76, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 58, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 79, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 67, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 53, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 75, "Unit": "F", "UnitType": 18 }
+                }
+            }
         ]
     },
     {
@@ -608,153 +944,47 @@
                 "roomQuantity": 1,
                 "total": 388.92
             }
-        ]
-    },
-    {
-        "id": "HIMIL88F",
-        "cityCode": "MIL",
-        "name": "HOLIDAY INN EXP MALPENSA ARPT",
-        "rating": 3,
-        "offers": [
+        ],
+        "weather": [
             {
-                "adults": 2,
-                "id": "QJTF7HDOQ8",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 91.5
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 58, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 79, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "UAT37NTVBM",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 91.5
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 55, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 76, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "088VIS6CT8",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 111.5
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 58, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 79, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "MVCRNOFFBF",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 91.5
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 67, "Unit": "F", "UnitType": 18 }
+                }
             },
             {
-                "adults": 2,
-                "id": "DVUY5AQP3T",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 96.5
-            },
-            {
-                "adults": 2,
-                "id": "TR4FZA3BNZ",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 96.5
-            },
-            {
-                "adults": 2,
-                "id": "HVG6JDI9UC",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 116.5
-            },
-            {
-                "adults": 2,
-                "id": "G7NRVVNG1U",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 96.5
-            },
-            {
-                "adults": 2,
-                "id": "KGJZP2OBHU",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 116.5
-            },
-            {
-                "adults": 2,
-                "id": "3FYNJPKOU9",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 116.5
-            },
-            {
-                "adults": 2,
-                "id": "SMANY7DDDS",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 136.5
-            },
-            {
-                "adults": 2,
-                "id": "5ZTVN9XBKS",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 116.5
-            },
-            {
-                "adults": 2,
-                "id": "SJ8L45RNZF",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 111.5
-            },
-            {
-                "adults": 2,
-                "id": "I4J75BO19Q",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 111.5
-            },
-            {
-                "adults": 2,
-                "id": "EWZJUL600Q",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 131.5
-            },
-            {
-                "adults": 2,
-                "id": "QS74ERKGPT",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 111.5
-            },
-            {
-                "adults": 2,
-                "id": "524Y8NMFVA",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 121.5
-            },
-            {
-                "adults": 2,
-                "id": "8AUT3PU9JC",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 121.5
-            },
-            {
-                "adults": 2,
-                "id": "8550VS3HOG",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 141.5
-            },
-            {
-                "adults": 2,
-                "id": "QYU8D9KZDL",
-                "available": true,
-                "roomQuantity": 1,
-                "total": 121.5
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 53, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 75, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -770,6 +1000,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 145
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 57, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 70, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 57, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 66, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 58, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 67, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -792,6 +1064,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 163
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 57, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 70, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 57, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 66, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 58, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 67, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -1011,6 +1325,238 @@
                 "roomQuantity": 1,
                 "total": 234.72
             }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 57, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 70, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 57, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 66, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 58, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 68, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 67, "Unit": "F", "UnitType": 18 }
+                }
+            }
+        ]
+    },
+    {
+        "id": "HIMIL88F",
+        "cityCode": "MIL",
+        "name": "HOLIDAY INN EXP MALPENSA ARPT",
+        "rating": 3,
+        "offers": [
+            {
+                "adults": 2,
+                "id": "QJTF7HDOQ8",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 91.5
+            },
+            {
+                "adults": 2,
+                "id": "UAT37NTVBM",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 91.5
+            },
+            {
+                "adults": 2,
+                "id": "088VIS6CT8",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 111.5
+            },
+            {
+                "adults": 2,
+                "id": "MVCRNOFFBF",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 91.5
+            },
+            {
+                "adults": 2,
+                "id": "DVUY5AQP3T",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 96.5
+            },
+            {
+                "adults": 2,
+                "id": "TR4FZA3BNZ",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 96.5
+            },
+            {
+                "adults": 2,
+                "id": "HVG6JDI9UC",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 116.5
+            },
+            {
+                "adults": 2,
+                "id": "G7NRVVNG1U",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 96.5
+            },
+            {
+                "adults": 2,
+                "id": "KGJZP2OBHU",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 116.5
+            },
+            {
+                "adults": 2,
+                "id": "3FYNJPKOU9",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 116.5
+            },
+            {
+                "adults": 2,
+                "id": "SMANY7DDDS",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 136.5
+            },
+            {
+                "adults": 2,
+                "id": "5ZTVN9XBKS",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 116.5
+            },
+            {
+                "adults": 2,
+                "id": "SJ8L45RNZF",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 111.5
+            },
+            {
+                "adults": 2,
+                "id": "I4J75BO19Q",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 111.5
+            },
+            {
+                "adults": 2,
+                "id": "EWZJUL600Q",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 131.5
+            },
+            {
+                "adults": 2,
+                "id": "QS74ERKGPT",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 111.5
+            },
+            {
+                "adults": 2,
+                "id": "524Y8NMFVA",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 121.5
+            },
+            {
+                "adults": 2,
+                "id": "8AUT3PU9JC",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 121.5
+            },
+            {
+                "adults": 2,
+                "id": "8550VS3HOG",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 141.5
+            },
+            {
+                "adults": 2,
+                "id": "QYU8D9KZDL",
+                "available": true,
+                "roomQuantity": 1,
+                "total": 121.5
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 72, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 65, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 55, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 53, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 62, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 52, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
+            }
         ]
     },
     {
@@ -1103,6 +1649,48 @@
                 "roomQuantity": 1,
                 "total": 195
             }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 59, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 84, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 73, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 52, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 69, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 77, "Unit": "F", "UnitType": 18 }
+                }
+            }
         ]
     },
     {
@@ -1124,6 +1712,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 210
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 59, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 84, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 73, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 52, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 69, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 77, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -1188,6 +1818,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 850
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 59, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 84, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 73, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 52, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 69, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 77, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     },
@@ -1385,6 +2057,48 @@
                 "available": true,
                 "roomQuantity": 1,
                 "total": 121
+            }
+        ],
+        "weather": [
+            {
+                "Date": "2021-05-21T07:00:00+02:00",
+                "EpochDate": 1621573200,
+                "Temperature": {
+                    "Minimum": { "Value": 59, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 84, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-22T07:00:00+02:00",
+                "EpochDate": 1621659600,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 73, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-23T07:00:00+02:00",
+                "EpochDate": 1621746000,
+                "Temperature": {
+                    "Minimum": { "Value": 52, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 69, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-24T07:00:00+02:00",
+                "EpochDate": 1621832400,
+                "Temperature": {
+                    "Minimum": { "Value": 54, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 74, "Unit": "F", "UnitType": 18 }
+                }
+            },
+            {
+                "Date": "2021-05-25T07:00:00+02:00",
+                "EpochDate": 1621918800,
+                "Temperature": {
+                    "Minimum": { "Value": 56, "Unit": "F", "UnitType": 18 },
+                    "Maximum": { "Value": 77, "Unit": "F", "UnitType": 18 }
+                }
             }
         ]
     }
