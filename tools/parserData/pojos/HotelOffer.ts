@@ -3,5 +3,5 @@ export type HotelOffer = {
     adults: number;
     available: boolean;
     roomQuantity: number;
-    total: number;
+    total: string;
 };

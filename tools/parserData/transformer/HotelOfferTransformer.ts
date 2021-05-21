@@ -9,6 +9,6 @@ export const HotelOfferTransformer = (
         id: offer.id,
         available,
         roomQuantity: parseInt(offer.roomQuantity) || 1,
-        total: parseFloat(offer.price.total),
+        total: String(offer.price.total),
     };
 };
