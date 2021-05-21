@@ -1,0 +1,2686 @@
+[{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5973c"
+  },
+  "adults": 1,
+  "id": "TR4MD42FL5",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 1065,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5973d"
+  },
+  "adults": 1,
+  "id": "8K991VVB7Y",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 1595,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5973e"
+  },
+  "adults": 1,
+  "id": "0FASXOZY5Z",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5973f"
+  },
+  "adults": 1,
+  "id": "RDXHWIUUGQ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59740"
+  },
+  "adults": 1,
+  "id": "2YN56IPYUP",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59741"
+  },
+  "adults": 1,
+  "id": "DORAT33UOX",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59742"
+  },
+  "adults": 1,
+  "id": "AJAMEYGG29",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 1065,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59743"
+  },
+  "adults": 1,
+  "id": "87DO9J9Z9S",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 1595,
+  "hotel": {
+    "id": "RTSAOPCT",
+    "cityCode": "SAO",
+    "name": "Mercure Sao Paulo Central Towers Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59744"
+  },
+  "adults": 2,
+  "id": "56IWNKPAD3",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HSCBPAAC",
+    "cityCode": "CBP",
+    "name": "Oslo",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59745"
+  },
+  "adults": 2,
+  "id": "CUOHX3OG1D",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 114,
+  "hotel": {
+    "id": "HSCBPAAC",
+    "cityCode": "CBP",
+    "name": "Oslo",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59746"
+  },
+  "adults": 2,
+  "id": "9ME3P95DJI",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 35,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59747"
+  },
+  "adults": 2,
+  "id": "FYZVTFH9A0",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 35,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59748"
+  },
+  "adults": 2,
+  "id": "5VP32D0VM3",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59749"
+  },
+  "adults": 2,
+  "id": "7EZPI67JS0",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5974a"
+  },
+  "adults": 2,
+  "id": "NX9KE8QBX2",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5974b"
+  },
+  "adults": 2,
+  "id": "QY9UPL9K7G",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5974c"
+  },
+  "adults": 2,
+  "id": "LHPFINJ5W8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5974d"
+  },
+  "adults": 2,
+  "id": "10082MWPWZ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5974e"
+  },
+  "adults": 2,
+  "id": "OHF2OH7YPE",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5974f"
+  },
+  "adults": 2,
+  "id": "Y8GI27OJ50",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 39,
+  "hotel": {
+    "id": "RTCBPIBI",
+    "cityCode": "CBP",
+    "name": "ibis Coimbra Centro",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59750"
+  },
+  "adults": 2,
+  "id": "LWA0TY7SN9",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59751"
+  },
+  "adults": 2,
+  "id": "8V0I497AK3",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59752"
+  },
+  "adults": 2,
+  "id": "H5N4ZXZOUJ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59753"
+  },
+  "adults": 2,
+  "id": "GCHR0DSIWV",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59754"
+  },
+  "adults": 2,
+  "id": "7GJR3BBGPL",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59755"
+  },
+  "adults": 2,
+  "id": "D9ZQZ8QPJU",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59756"
+  },
+  "adults": 2,
+  "id": "U3XSCDS8WE",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59757"
+  },
+  "adults": 2,
+  "id": "H551BSJP2Z",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59758"
+  },
+  "adults": 2,
+  "id": "Q19HX9RH72",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59759"
+  },
+  "adults": 2,
+  "id": "N0ZO75ZEK3",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBGCIBI",
+    "cityCode": "BGC",
+    "name": "ibis Braganca",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5975a"
+  },
+  "adults": 2,
+  "id": "WCHG098KKZ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 300,
+  "hotel": {
+    "id": "HSSSAAAN",
+    "cityCode": "SSA",
+    "name": "Pousada da Mangueira",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5975b"
+  },
+  "adults": 2,
+  "id": "EDHNBZK031",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HSSSAAAN",
+    "cityCode": "SSA",
+    "name": "Pousada da Mangueira",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5975c"
+  },
+  "adults": 2,
+  "id": "E0FMN59ZZ8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5975d"
+  },
+  "adults": 2,
+  "id": "0R9CR7V6R3",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5975e"
+  },
+  "adults": 2,
+  "id": "GPTR6Z60G5",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5975f"
+  },
+  "adults": 2,
+  "id": "22HUSTLULN",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59760"
+  },
+  "adults": 2,
+  "id": "1K8R0O2R51",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59761"
+  },
+  "adults": 2,
+  "id": "DLQ1PNNML4",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59762"
+  },
+  "adults": 2,
+  "id": "GU3IXGIPJ0",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59763"
+  },
+  "adults": 2,
+  "id": "VUS1XMHBW4",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMER",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Rio Vermelho Hotel",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59764"
+  },
+  "adults": 2,
+  "id": "BYNJBT3YMW",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59765"
+  },
+  "adults": 2,
+  "id": "0PGNHOMA3V",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59766"
+  },
+  "adults": 2,
+  "id": "1KI2SKU2AB",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 315,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59767"
+  },
+  "adults": 2,
+  "id": "9ZD5IR8BB3",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59768"
+  },
+  "adults": 2,
+  "id": "QNIV4X4SCH",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 3150,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59769"
+  },
+  "adults": 2,
+  "id": "3L16941PGC",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 3150,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5976a"
+  },
+  "adults": 2,
+  "id": "PVADVT2H1N",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 3150,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5976b"
+  },
+  "adults": 2,
+  "id": "21G86O3HTC",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 3150,
+  "hotel": {
+    "id": "RTSSAMSB",
+    "cityCode": "SSA",
+    "name": "Mercure Salvador Boulevard",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5976c"
+  },
+  "adults": 2,
+  "id": "H5N0P3W6E0",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 145,
+  "hotel": {
+    "id": "HSBCNAGY",
+    "cityCode": "BCN",
+    "name": "Cataluña",
+    "rating": 2
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5976d"
+  },
+  "adults": 2,
+  "id": "1SA70YFYO4",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HSBCNAKP",
+    "cityCode": "BCN",
+    "name": "Acta Atrium Palace",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5976e"
+  },
+  "adults": 2,
+  "id": "GCIMK9SIJT",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 163,
+  "hotel": {
+    "id": "HSBCNAKP",
+    "cityCode": "BCN",
+    "name": "Acta Atrium Palace",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5976f"
+  },
+  "adults": 2,
+  "id": "T687D062GM",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59770"
+  },
+  "adults": 2,
+  "id": "ASQMKK0CFR",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59771"
+  },
+  "adults": 2,
+  "id": "8T1JQRWS4W",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59772"
+  },
+  "adults": 2,
+  "id": "NU8KET9GYF",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59773"
+  },
+  "adults": 2,
+  "id": "YTMFDPFVXB",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59774"
+  },
+  "adults": 2,
+  "id": "LJRE48TMBQ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59775"
+  },
+  "adults": 2,
+  "id": "SRI3YAX62H",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59776"
+  },
+  "adults": 2,
+  "id": "2JV6GTG7GW",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59777"
+  },
+  "adults": 2,
+  "id": "WWI0I41DKK",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59778"
+  },
+  "adults": 2,
+  "id": "EKXA2OLJU1",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59779"
+  },
+  "adults": 2,
+  "id": "R7KNRYKZLR",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5977a"
+  },
+  "adults": 2,
+  "id": "298VIU2APT",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5977b"
+  },
+  "adults": 2,
+  "id": "1XA009FL8A",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5977c"
+  },
+  "adults": 2,
+  "id": "V64WJ98DYG",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5977d"
+  },
+  "adults": 2,
+  "id": "3FB1W0163M",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5977e"
+  },
+  "adults": 2,
+  "id": "LB90I51IT6",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5977f"
+  },
+  "adults": 2,
+  "id": "5AOY4ZE267",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59780"
+  },
+  "adults": 2,
+  "id": "OGBGKV55ZM",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59781"
+  },
+  "adults": 2,
+  "id": "VRGTNW9MWX",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59782"
+  },
+  "adults": 2,
+  "id": "9Y7YRAHLE6",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59783"
+  },
+  "adults": 2,
+  "id": "YB9PZ5EI00",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59784"
+  },
+  "adults": 2,
+  "id": "E9RXUFYNHH",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59785"
+  },
+  "adults": 2,
+  "id": "4H8C31I266",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59786"
+  },
+  "adults": 2,
+  "id": "J2WWJZ9BL1",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59787"
+  },
+  "adults": 2,
+  "id": "9ZOROEDM73",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59788"
+  },
+  "adults": 2,
+  "id": "EOVRX6ENWK",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59789"
+  },
+  "adults": 2,
+  "id": "XHBQTI92NC",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5978a"
+  },
+  "adults": 2,
+  "id": "US8V57NPWR",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5978b"
+  },
+  "adults": 2,
+  "id": "LB21WON491",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5978c"
+  },
+  "adults": 2,
+  "id": "A4RO2SNI8S",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HLBCN116",
+    "cityCode": "BCN",
+    "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5978d"
+  },
+  "adults": 2,
+  "id": "OQLWK3QNZ8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 104,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5978e"
+  },
+  "adults": 2,
+  "id": "AF2OCU77BJ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 104,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5978f"
+  },
+  "adults": 2,
+  "id": "HI39CTQXI8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 119,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59790"
+  },
+  "adults": 2,
+  "id": "1OV8NAEX2W",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 119,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59791"
+  },
+  "adults": 2,
+  "id": "SV3IF2TQPO",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 119,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59792"
+  },
+  "adults": 2,
+  "id": "M0UV9IDN1M",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 119,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59793"
+  },
+  "adults": 2,
+  "id": "NV8EQ3JV92",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 129,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59794"
+  },
+  "adults": 2,
+  "id": "WAQE7MI5UN",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 129,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59795"
+  },
+  "adults": 2,
+  "id": "VTVFJUSAY8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 134,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59796"
+  },
+  "adults": 2,
+  "id": "WNPRTCSQFL",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 134,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59797"
+  },
+  "adults": 2,
+  "id": "MS7G1RSSDY",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 159,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59798"
+  },
+  "adults": 2,
+  "id": "Q8OVL8ATZ4",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 159,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f59799"
+  },
+  "adults": 2,
+  "id": "QXYX21NKQA",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5979a"
+  },
+  "adults": 2,
+  "id": "JQO6KR5V20",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5979b"
+  },
+  "adults": 2,
+  "id": "RYMAJ2GRNH",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5979c"
+  },
+  "adults": 2,
+  "id": "UG28DONLJH",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5979d"
+  },
+  "adults": 2,
+  "id": "F1TJ2M9XE2",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5979e"
+  },
+  "adults": 2,
+  "id": "GODT0W1QX3",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f5979f"
+  },
+  "adults": 2,
+  "id": "W5YAO7OGC9",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a0"
+  },
+  "adults": 2,
+  "id": "04YBJNLKVQ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a1"
+  },
+  "adults": 2,
+  "id": "8T8H1146GX",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a2"
+  },
+  "adults": 2,
+  "id": "D30EJG4FHS",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a3"
+  },
+  "adults": 2,
+  "id": "WJUKTQXDOE",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 104,
+  "hotel": {
+    "id": "ARBLQBOL",
+    "cityCode": "BLQ",
+    "name": "AC by Marriott Hotel Bologna",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a4"
+  },
+  "adults": 2,
+  "id": "SJ1YBXB8AA",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBLQBOL",
+    "cityCode": "BLQ",
+    "name": "Novotel Bologna Fiera",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a5"
+  },
+  "adults": 2,
+  "id": "HSFGTFZABZ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBLQBOL",
+    "cityCode": "BLQ",
+    "name": "Novotel Bologna Fiera",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a6"
+  },
+  "adults": 2,
+  "id": "UPP9CVG4FE",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBLQBOL",
+    "cityCode": "BLQ",
+    "name": "Novotel Bologna Fiera",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a7"
+  },
+  "adults": 2,
+  "id": "6Y0R39CLH9",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBLQBOL",
+    "cityCode": "BLQ",
+    "name": "Novotel Bologna Fiera",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a8"
+  },
+  "adults": 2,
+  "id": "4B4E404HUO",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBLQBOL",
+    "cityCode": "BLQ",
+    "name": "Novotel Bologna Fiera",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597a9"
+  },
+  "adults": 2,
+  "id": "GPL34FD1Y1",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "RTBLQBOL",
+    "cityCode": "BLQ",
+    "name": "Novotel Bologna Fiera",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597aa"
+  },
+  "adults": 2,
+  "id": "QJTF7HDOQ8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ab"
+  },
+  "adults": 2,
+  "id": "UAT37NTVBM",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ac"
+  },
+  "adults": 2,
+  "id": "088VIS6CT8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ad"
+  },
+  "adults": 2,
+  "id": "MVCRNOFFBF",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ae"
+  },
+  "adults": 2,
+  "id": "DVUY5AQP3T",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597af"
+  },
+  "adults": 2,
+  "id": "TR4FZA3BNZ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b0"
+  },
+  "adults": 2,
+  "id": "HVG6JDI9UC",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b1"
+  },
+  "adults": 2,
+  "id": "G7NRVVNG1U",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b2"
+  },
+  "adults": 2,
+  "id": "KGJZP2OBHU",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b3"
+  },
+  "adults": 2,
+  "id": "3FYNJPKOU9",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b4"
+  },
+  "adults": 2,
+  "id": "SMANY7DDDS",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b5"
+  },
+  "adults": 2,
+  "id": "5ZTVN9XBKS",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b6"
+  },
+  "adults": 2,
+  "id": "SJ8L45RNZF",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b7"
+  },
+  "adults": 2,
+  "id": "I4J75BO19Q",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b8"
+  },
+  "adults": 2,
+  "id": "EWZJUL600Q",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597b9"
+  },
+  "adults": 2,
+  "id": "QS74ERKGPT",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ba"
+  },
+  "adults": 2,
+  "id": "524Y8NMFVA",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597bb"
+  },
+  "adults": 2,
+  "id": "8AUT3PU9JC",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597bc"
+  },
+  "adults": 2,
+  "id": "8550VS3HOG",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597bd"
+  },
+  "adults": 2,
+  "id": "QYU8D9KZDL",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "HIMIL88F",
+    "cityCode": "MIL",
+    "name": "HOLIDAY INN EXP MALPENSA ARPT",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597be"
+  },
+  "adults": 2,
+  "id": "ZOKXR6STJO",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 170,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597bf"
+  },
+  "adults": 2,
+  "id": "6HYE2236U1",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 190,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c0"
+  },
+  "adults": 2,
+  "id": "CNPLEMMVDI",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 190,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c1"
+  },
+  "adults": 2,
+  "id": "NEEJSACMAE",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 190,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c2"
+  },
+  "adults": 2,
+  "id": "Z78J1ISDT8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c3"
+  },
+  "adults": 2,
+  "id": "QXUXZZODEK",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c4"
+  },
+  "adults": 2,
+  "id": "HMM6T9EJUA",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c5"
+  },
+  "adults": 2,
+  "id": "OK5YML9LVU",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c6"
+  },
+  "adults": 2,
+  "id": "5ZGV2EWJTO",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 175,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c7"
+  },
+  "adults": 2,
+  "id": "ZRQFHL80W5",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 195,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c8"
+  },
+  "adults": 2,
+  "id": "GG9L899CXX",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 195,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597c9"
+  },
+  "adults": 2,
+  "id": "NVQVSIZ51Z",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 195,
+  "hotel": {
+    "id": "INMAD23B",
+    "cityCode": "MAD",
+    "name": "Hotel Indigo Gran Via",
+    "rating": 3
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ca"
+  },
+  "adults": 2,
+  "id": "OMRWXRURKO",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 110,
+  "hotel": {
+    "id": "HNMAD123",
+    "cityCode": "MAD",
+    "name": "test hotel HOT",
+    "rating": null
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597cb"
+  },
+  "adults": 2,
+  "id": "GSS65D9QUZ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 210,
+  "hotel": {
+    "id": "HNMAD123",
+    "cityCode": "MAD",
+    "name": "test hotel HOT",
+    "rating": null
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597cc"
+  },
+  "adults": 2,
+  "id": "N982SBARYO",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 355,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597cd"
+  },
+  "adults": 2,
+  "id": "GXNNYWZSOK",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 355,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ce"
+  },
+  "adults": 2,
+  "id": "CJ4AKMHDV8",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 355,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597cf"
+  },
+  "adults": 2,
+  "id": "6RY5GU1YYU",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 355,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d0"
+  },
+  "adults": 2,
+  "id": "YRNAM4JCMN",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 380,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d1"
+  },
+  "adults": 2,
+  "id": "DCSH60ONRJ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 380,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d2"
+  },
+  "adults": 2,
+  "id": "1P494W3KLO",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 850,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d3"
+  },
+  "adults": 2,
+  "id": "7MVCOKKQ54",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 850,
+  "hotel": {
+    "id": "RTMADPUL",
+    "cityCode": "MAD",
+    "name": "Mercure Madrid Plaza de Espana",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d4"
+  },
+  "adults": 2,
+  "id": "MBWAA61I1R",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 121,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d5"
+  },
+  "adults": 2,
+  "id": "WKUMVWOMDM",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 121,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d6"
+  },
+  "adults": 2,
+  "id": "DJ7B9QXRRX",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 121,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d7"
+  },
+  "adults": 2,
+  "id": "HRBLF6I748",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d8"
+  },
+  "adults": 2,
+  "id": "X8VZJBECBI",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597d9"
+  },
+  "adults": 2,
+  "id": "QA5WI2D93M",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597da"
+  },
+  "adults": 2,
+  "id": "GWDFHWF57L",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597db"
+  },
+  "adults": 2,
+  "id": "D2F9N0CEPK",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597dc"
+  },
+  "adults": 2,
+  "id": "UFGBGOUUKQ",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597dd"
+  },
+  "adults": 2,
+  "id": "XWEL5CFBSD",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 154,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597de"
+  },
+  "adults": 2,
+  "id": "DL1196FM6X",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 154,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597df"
+  },
+  "adults": 2,
+  "id": "6VT9MC131M",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 154,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e0"
+  },
+  "adults": 2,
+  "id": "0AJD1V3R2R",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e1"
+  },
+  "adults": 2,
+  "id": "T1P9NVPCHF",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e2"
+  },
+  "adults": 2,
+  "id": "4RY79ZKYNF",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e3"
+  },
+  "adults": 2,
+  "id": "NEJA2FC10H",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e4"
+  },
+  "adults": 2,
+  "id": "K37LT1P586",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e5"
+  },
+  "adults": 2,
+  "id": "E51OCH4VY4",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e6"
+  },
+  "adults": 2,
+  "id": "D2EBLGTD89",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e7"
+  },
+  "adults": 2,
+  "id": "UFBDTYNSDB",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e8"
+  },
+  "adults": 2,
+  "id": "LLD5AVBXN9",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597e9"
+  },
+  "adults": 2,
+  "id": "WBU7VGJ5VP",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ea"
+  },
+  "adults": 2,
+  "id": "U5F7MSJAMK",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597eb"
+  },
+  "adults": 2,
+  "id": "7HBCUAUMZS",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ec"
+  },
+  "adults": 2,
+  "id": "64XKVIIH4M",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ed"
+  },
+  "adults": 2,
+  "id": "94BS2QJA1A",
+  "available": true,
+  "roomQuantity": 1,
+  "total": null,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+},{
+  "_id": {
+    "$oid": "60a7ad40e132ae2e30f597ee"
+  },
+  "adults": 2,
+  "id": "8S7JLBS99T",
+  "available": true,
+  "roomQuantity": 1,
+  "total": 121,
+  "hotel": {
+    "id": "ARMADATO",
+    "cityCode": "MAD",
+    "name": "AC by Marriott Hotel Atocha",
+    "rating": 4
+  }
+}]

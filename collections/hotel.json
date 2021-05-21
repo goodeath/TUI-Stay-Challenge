@@ -1,0 +1,1424 @@
+[{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59678"
+  },
+  "id": "RTSAOPCT",
+  "cityCode": "SAO",
+  "name": "Mercure Sao Paulo Central Towers Hotel",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 1,
+      "id": "TR4MD42FL5",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 1065
+    },
+    {
+      "adults": 1,
+      "id": "8K991VVB7Y",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 1595
+    },
+    {
+      "adults": 1,
+      "id": "0FASXOZY5Z",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 183.8
+    },
+    {
+      "adults": 1,
+      "id": "RDXHWIUUGQ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 178.8
+    },
+    {
+      "adults": 1,
+      "id": "2YN56IPYUP",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 375.95
+    },
+    {
+      "adults": 1,
+      "id": "DORAT33UOX",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 370.95
+    },
+    {
+      "adults": 1,
+      "id": "AJAMEYGG29",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 1065
+    },
+    {
+      "adults": 1,
+      "id": "87DO9J9Z9S",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 1595
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59679"
+  },
+  "id": "HSCBPAAC",
+  "cityCode": "CBP",
+  "name": "Oslo",
+  "rating": 3,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "56IWNKPAD3",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 108.3
+    },
+    {
+      "adults": 2,
+      "id": "CUOHX3OG1D",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 114
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f5967a"
+  },
+  "id": "RTCBPIBI",
+  "cityCode": "CBP",
+  "name": "ibis Coimbra Centro",
+  "rating": 2,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "9ME3P95DJI",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 35
+    },
+    {
+      "adults": 2,
+      "id": "FYZVTFH9A0",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 35
+    },
+    {
+      "adults": 2,
+      "id": "5VP32D0VM3",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    },
+    {
+      "adults": 2,
+      "id": "7EZPI67JS0",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    },
+    {
+      "adults": 2,
+      "id": "NX9KE8QBX2",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    },
+    {
+      "adults": 2,
+      "id": "QY9UPL9K7G",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    },
+    {
+      "adults": 2,
+      "id": "LHPFINJ5W8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    },
+    {
+      "adults": 2,
+      "id": "10082MWPWZ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    },
+    {
+      "adults": 2,
+      "id": "OHF2OH7YPE",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    },
+    {
+      "adults": 2,
+      "id": "Y8GI27OJ50",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f5967b"
+  },
+  "id": "RTBGCIBI",
+  "cityCode": "BGC",
+  "name": "ibis Braganca",
+  "rating": 3,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "LWA0TY7SN9",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    },
+    {
+      "adults": 2,
+      "id": "8V0I497AK3",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    },
+    {
+      "adults": 2,
+      "id": "H5N4ZXZOUJ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    },
+    {
+      "adults": 2,
+      "id": "GCHR0DSIWV",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    },
+    {
+      "adults": 2,
+      "id": "7GJR3BBGPL",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    },
+    {
+      "adults": 2,
+      "id": "D9ZQZ8QPJU",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    },
+    {
+      "adults": 2,
+      "id": "U3XSCDS8WE",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 35.08
+    },
+    {
+      "adults": 2,
+      "id": "H551BSJP2Z",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 35.08
+    },
+    {
+      "adults": 2,
+      "id": "Q19HX9RH72",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    },
+    {
+      "adults": 2,
+      "id": "N0ZO75ZEK3",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 39.08
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f5967c"
+  },
+  "id": "HSSSAAAN",
+  "cityCode": "SSA",
+  "name": "Pousada da Mangueira",
+  "rating": 3,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "WCHG098KKZ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 300
+    },
+    {
+      "adults": 2,
+      "id": "EDHNBZK031",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 340.91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f5967d"
+  },
+  "id": "RTSSAMER",
+  "cityCode": "SSA",
+  "name": "Mercure Salvador Rio Vermelho Hotel",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "E0FMN59ZZ8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 246.75
+    },
+    {
+      "adults": 2,
+      "id": "0R9CR7V6R3",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 246.75
+    },
+    {
+      "adults": 2,
+      "id": "GPTR6Z60G5",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 295.05
+    },
+    {
+      "adults": 2,
+      "id": "22HUSTLULN",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 295.05
+    },
+    {
+      "adults": 2,
+      "id": "1K8R0O2R51",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 301.35
+    },
+    {
+      "adults": 2,
+      "id": "DLQ1PNNML4",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 301.35
+    },
+    {
+      "adults": 2,
+      "id": "GU3IXGIPJ0",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 301.35
+    },
+    {
+      "adults": 2,
+      "id": "VUS1XMHBW4",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 301.35
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f5967e"
+  },
+  "id": "RTSSAMSB",
+  "cityCode": "SSA",
+  "name": "Mercure Salvador Boulevard",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "BYNJBT3YMW",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 257.25
+    },
+    {
+      "adults": 2,
+      "id": "0PGNHOMA3V",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 278.25
+    },
+    {
+      "adults": 2,
+      "id": "1KI2SKU2AB",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 315
+    },
+    {
+      "adults": 2,
+      "id": "9ZD5IR8BB3",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 351.75
+    },
+    {
+      "adults": 2,
+      "id": "QNIV4X4SCH",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 3150
+    },
+    {
+      "adults": 2,
+      "id": "3L16941PGC",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 3150
+    },
+    {
+      "adults": 2,
+      "id": "PVADVT2H1N",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 3150
+    },
+    {
+      "adults": 2,
+      "id": "21G86O3HTC",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 3150
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f5967f"
+  },
+  "id": "HSBCNAGY",
+  "cityCode": "BCN",
+  "name": "Cataluña",
+  "rating": 2,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "H5N0P3W6E0",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 145
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59680"
+  },
+  "id": "HSBCNAKP",
+  "cityCode": "BCN",
+  "name": "Acta Atrium Palace",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "1SA70YFYO4",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 149.96
+    },
+    {
+      "adults": 2,
+      "id": "GCIMK9SIJT",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 163
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59681"
+  },
+  "id": "HLBCN116",
+  "cityCode": "BCN",
+  "name": "ALEXANDRA BARCELONA A DT BY HILTON",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "T687D062GM",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 117.42
+    },
+    {
+      "adults": 2,
+      "id": "ASQMKK0CFR",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 132.42
+    },
+    {
+      "adults": 2,
+      "id": "8T1JQRWS4W",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 142.42
+    },
+    {
+      "adults": 2,
+      "id": "NU8KET9GYF",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 132.42
+    },
+    {
+      "adults": 2,
+      "id": "YTMFDPFVXB",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 147.42
+    },
+    {
+      "adults": 2,
+      "id": "LJRE48TMBQ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 147.42
+    },
+    {
+      "adults": 2,
+      "id": "SRI3YAX62H",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 172.42
+    },
+    {
+      "adults": 2,
+      "id": "2JV6GTG7GW",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 202.42
+    },
+    {
+      "adults": 2,
+      "id": "WWI0I41DKK",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 232.42
+    },
+    {
+      "adults": 2,
+      "id": "EKXA2OLJU1",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 232.42
+    },
+    {
+      "adults": 2,
+      "id": "R7KNRYKZLR",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 137.42
+    },
+    {
+      "adults": 2,
+      "id": "298VIU2APT",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 152.42
+    },
+    {
+      "adults": 2,
+      "id": "1XA009FL8A",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 162.42
+    },
+    {
+      "adults": 2,
+      "id": "V64WJ98DYG",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 152.42
+    },
+    {
+      "adults": 2,
+      "id": "3FB1W0163M",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 167.42
+    },
+    {
+      "adults": 2,
+      "id": "LB90I51IT6",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 167.42
+    },
+    {
+      "adults": 2,
+      "id": "5AOY4ZE267",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 192.42
+    },
+    {
+      "adults": 2,
+      "id": "OGBGKV55ZM",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 222.42
+    },
+    {
+      "adults": 2,
+      "id": "VRGTNW9MWX",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 252.42
+    },
+    {
+      "adults": 2,
+      "id": "9Y7YRAHLE6",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 252.42
+    },
+    {
+      "adults": 2,
+      "id": "YB9PZ5EI00",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 118.57
+    },
+    {
+      "adults": 2,
+      "id": "E9RXUFYNHH",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 133.72
+    },
+    {
+      "adults": 2,
+      "id": "4H8C31I266",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 143.82
+    },
+    {
+      "adults": 2,
+      "id": "J2WWJZ9BL1",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 133.72
+    },
+    {
+      "adults": 2,
+      "id": "9ZOROEDM73",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 148.87
+    },
+    {
+      "adults": 2,
+      "id": "EOVRX6ENWK",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 148.87
+    },
+    {
+      "adults": 2,
+      "id": "XHBQTI92NC",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 174.12
+    },
+    {
+      "adults": 2,
+      "id": "US8V57NPWR",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 204.42
+    },
+    {
+      "adults": 2,
+      "id": "LB21WON491",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 234.72
+    },
+    {
+      "adults": 2,
+      "id": "A4RO2SNI8S",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 234.72
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59682"
+  },
+  "id": "ARBLQBOL",
+  "cityCode": "BLQ",
+  "name": "AC by Marriott Hotel Bologna",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "OQLWK3QNZ8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 104
+    },
+    {
+      "adults": 2,
+      "id": "AF2OCU77BJ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 104
+    },
+    {
+      "adults": 2,
+      "id": "HI39CTQXI8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 119
+    },
+    {
+      "adults": 2,
+      "id": "1OV8NAEX2W",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 119
+    },
+    {
+      "adults": 2,
+      "id": "SV3IF2TQPO",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 119
+    },
+    {
+      "adults": 2,
+      "id": "M0UV9IDN1M",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 119
+    },
+    {
+      "adults": 2,
+      "id": "NV8EQ3JV92",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 129
+    },
+    {
+      "adults": 2,
+      "id": "WAQE7MI5UN",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 129
+    },
+    {
+      "adults": 2,
+      "id": "VTVFJUSAY8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 134
+    },
+    {
+      "adults": 2,
+      "id": "WNPRTCSQFL",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 134
+    },
+    {
+      "adults": 2,
+      "id": "MS7G1RSSDY",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 159
+    },
+    {
+      "adults": 2,
+      "id": "Q8OVL8ATZ4",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 159
+    },
+    {
+      "adults": 2,
+      "id": "QXYX21NKQA",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 162.6
+    },
+    {
+      "adults": 2,
+      "id": "JQO6KR5V20",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 177.6
+    },
+    {
+      "adults": 2,
+      "id": "RYMAJ2GRNH",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 113.4
+    },
+    {
+      "adults": 2,
+      "id": "UG28DONLJH",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 113.4
+    },
+    {
+      "adults": 2,
+      "id": "F1TJ2M9XE2",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 129.9
+    },
+    {
+      "adults": 2,
+      "id": "GODT0W1QX3",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 129.9
+    },
+    {
+      "adults": 2,
+      "id": "W5YAO7OGC9",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 89.9
+    },
+    {
+      "adults": 2,
+      "id": "04YBJNLKVQ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 89.9
+    },
+    {
+      "adults": 2,
+      "id": "8T8H1146GX",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 102.65
+    },
+    {
+      "adults": 2,
+      "id": "D30EJG4FHS",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 102.65
+    },
+    {
+      "adults": 2,
+      "id": "WJUKTQXDOE",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 104
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59683"
+  },
+  "id": "RTBLQBOL",
+  "cityCode": "BLQ",
+  "name": "Novotel Bologna Fiera",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "SJ1YBXB8AA",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 368.53
+    },
+    {
+      "adults": 2,
+      "id": "HSFGTFZABZ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 368.53
+    },
+    {
+      "adults": 2,
+      "id": "UPP9CVG4FE",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 382.8
+    },
+    {
+      "adults": 2,
+      "id": "6Y0R39CLH9",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 382.8
+    },
+    {
+      "adults": 2,
+      "id": "4B4E404HUO",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 388.92
+    },
+    {
+      "adults": 2,
+      "id": "GPL34FD1Y1",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 388.92
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59684"
+  },
+  "id": "HIMIL88F",
+  "cityCode": "MIL",
+  "name": "HOLIDAY INN EXP MALPENSA ARPT",
+  "rating": 3,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "QJTF7HDOQ8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 91.5
+    },
+    {
+      "adults": 2,
+      "id": "UAT37NTVBM",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 91.5
+    },
+    {
+      "adults": 2,
+      "id": "088VIS6CT8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 111.5
+    },
+    {
+      "adults": 2,
+      "id": "MVCRNOFFBF",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 91.5
+    },
+    {
+      "adults": 2,
+      "id": "DVUY5AQP3T",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 96.5
+    },
+    {
+      "adults": 2,
+      "id": "TR4FZA3BNZ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 96.5
+    },
+    {
+      "adults": 2,
+      "id": "HVG6JDI9UC",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 116.5
+    },
+    {
+      "adults": 2,
+      "id": "G7NRVVNG1U",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 96.5
+    },
+    {
+      "adults": 2,
+      "id": "KGJZP2OBHU",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 116.5
+    },
+    {
+      "adults": 2,
+      "id": "3FYNJPKOU9",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 116.5
+    },
+    {
+      "adults": 2,
+      "id": "SMANY7DDDS",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 136.5
+    },
+    {
+      "adults": 2,
+      "id": "5ZTVN9XBKS",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 116.5
+    },
+    {
+      "adults": 2,
+      "id": "SJ8L45RNZF",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 111.5
+    },
+    {
+      "adults": 2,
+      "id": "I4J75BO19Q",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 111.5
+    },
+    {
+      "adults": 2,
+      "id": "EWZJUL600Q",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 131.5
+    },
+    {
+      "adults": 2,
+      "id": "QS74ERKGPT",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 111.5
+    },
+    {
+      "adults": 2,
+      "id": "524Y8NMFVA",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 121.5
+    },
+    {
+      "adults": 2,
+      "id": "8AUT3PU9JC",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 121.5
+    },
+    {
+      "adults": 2,
+      "id": "8550VS3HOG",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 141.5
+    },
+    {
+      "adults": 2,
+      "id": "QYU8D9KZDL",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 121.5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59685"
+  },
+  "id": "INMAD23B",
+  "cityCode": "MAD",
+  "name": "Hotel Indigo Gran Via",
+  "rating": 3,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "ZOKXR6STJO",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 170
+    },
+    {
+      "adults": 2,
+      "id": "6HYE2236U1",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 190
+    },
+    {
+      "adults": 2,
+      "id": "CNPLEMMVDI",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 190
+    },
+    {
+      "adults": 2,
+      "id": "NEEJSACMAE",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 190
+    },
+    {
+      "adults": 2,
+      "id": "Z78J1ISDT8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 189.5
+    },
+    {
+      "adults": 2,
+      "id": "QXUXZZODEK",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 209.5
+    },
+    {
+      "adults": 2,
+      "id": "HMM6T9EJUA",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 209.5
+    },
+    {
+      "adults": 2,
+      "id": "OK5YML9LVU",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 209.5
+    },
+    {
+      "adults": 2,
+      "id": "5ZGV2EWJTO",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 175
+    },
+    {
+      "adults": 2,
+      "id": "ZRQFHL80W5",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 195
+    },
+    {
+      "adults": 2,
+      "id": "GG9L899CXX",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 195
+    },
+    {
+      "adults": 2,
+      "id": "NVQVSIZ51Z",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 195
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59686"
+  },
+  "id": "HNMAD123",
+  "cityCode": "MAD",
+  "name": "test hotel HOT",
+  "rating": null,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "OMRWXRURKO",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 110
+    },
+    {
+      "adults": 2,
+      "id": "GSS65D9QUZ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 210
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59687"
+  },
+  "id": "RTMADPUL",
+  "cityCode": "MAD",
+  "name": "Mercure Madrid Plaza de Espana",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "N982SBARYO",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 355
+    },
+    {
+      "adults": 2,
+      "id": "GXNNYWZSOK",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 355
+    },
+    {
+      "adults": 2,
+      "id": "CJ4AKMHDV8",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 355
+    },
+    {
+      "adults": 2,
+      "id": "6RY5GU1YYU",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 355
+    },
+    {
+      "adults": 2,
+      "id": "YRNAM4JCMN",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 380
+    },
+    {
+      "adults": 2,
+      "id": "DCSH60ONRJ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 380
+    },
+    {
+      "adults": 2,
+      "id": "1P494W3KLO",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 850
+    },
+    {
+      "adults": 2,
+      "id": "7MVCOKKQ54",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 850
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60a7acc1e132ae2e30f59688"
+  },
+  "id": "ARMADATO",
+  "cityCode": "MAD",
+  "name": "AC by Marriott Hotel Atocha",
+  "rating": 4,
+  "offers": [
+    {
+      "adults": 2,
+      "id": "MBWAA61I1R",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 121
+    },
+    {
+      "adults": 2,
+      "id": "WKUMVWOMDM",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 121
+    },
+    {
+      "adults": 2,
+      "id": "DJ7B9QXRRX",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 121
+    },
+    {
+      "adults": 2,
+      "id": "HRBLF6I748",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 137.5
+    },
+    {
+      "adults": 2,
+      "id": "X8VZJBECBI",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 137.5
+    },
+    {
+      "adults": 2,
+      "id": "QA5WI2D93M",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 137.5
+    },
+    {
+      "adults": 2,
+      "id": "GWDFHWF57L",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 137.5
+    },
+    {
+      "adults": 2,
+      "id": "D2F9N0CEPK",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 137.5
+    },
+    {
+      "adults": 2,
+      "id": "UFGBGOUUKQ",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 137.5
+    },
+    {
+      "adults": 2,
+      "id": "XWEL5CFBSD",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 154
+    },
+    {
+      "adults": 2,
+      "id": "DL1196FM6X",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 154
+    },
+    {
+      "adults": 2,
+      "id": "6VT9MC131M",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 154
+    },
+    {
+      "adults": 2,
+      "id": "0AJD1V3R2R",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 157.3
+    },
+    {
+      "adults": 2,
+      "id": "T1P9NVPCHF",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 157.3
+    },
+    {
+      "adults": 2,
+      "id": "4RY79ZKYNF",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 173.8
+    },
+    {
+      "adults": 2,
+      "id": "NEJA2FC10H",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 173.8
+    },
+    {
+      "adults": 2,
+      "id": "K37LT1P586",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 133.1
+    },
+    {
+      "adults": 2,
+      "id": "E51OCH4VY4",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 133.1
+    },
+    {
+      "adults": 2,
+      "id": "D2EBLGTD89",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 151.25
+    },
+    {
+      "adults": 2,
+      "id": "UFBDTYNSDB",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 151.25
+    },
+    {
+      "adults": 2,
+      "id": "LLD5AVBXN9",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 173.03
+    },
+    {
+      "adults": 2,
+      "id": "WBU7VGJ5VP",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 102.85
+    },
+    {
+      "adults": 2,
+      "id": "U5F7MSJAMK",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 102.85
+    },
+    {
+      "adults": 2,
+      "id": "7HBCUAUMZS",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 116.88
+    },
+    {
+      "adults": 2,
+      "id": "64XKVIIH4M",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 116.88
+    },
+    {
+      "adults": 2,
+      "id": "94BS2QJA1A",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 133.71
+    },
+    {
+      "adults": 2,
+      "id": "8S7JLBS99T",
+      "available": true,
+      "roomQuantity": 1,
+      "total": 121
+    }
+  ]
+}]
