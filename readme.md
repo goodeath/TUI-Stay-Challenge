@@ -431,4 +431,5 @@ Default endpoint: `http://localhost:4000/...`
 2. Provide more search options; 
 3. Improve database data; 
 4. Route to find hotels near of user, by getting user geolocation;
-5. Block multiple requests in short time space from same IP to prevent DDoS attacks.
+5. Block multiple requests in short time space from same IP to prevent DDoS attacks;
+6. Store cityCode: cityName to be able to put weather and offers data together more easily.
