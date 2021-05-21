@@ -120,6 +120,8 @@ Default endpoint: `http://localhost:4000/...`
 
 ? ahead of property, means that it's optional.
 
+NOTE: Weather data was hidden in responses to be present in a short way.
+
 ### Hotel
 
 -   **[GET]** `/hotels`
