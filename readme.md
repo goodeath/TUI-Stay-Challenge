@@ -28,8 +28,6 @@ This project it's a simplified version of an hotel search engine. It was develop
 
 -   `/tools/`: Some script tools like ParserData, that get api data and convert it to be inserted in database;
 
--   `/dist/`: Webpack build output folder.
-
 **Overview:**
 
 ```
@@ -89,8 +87,7 @@ This project it's a simplified version of an hotel search engine. It was develop
 ├── package.json
 ├── README.md
 ├── tsconfig.json
-├── webpack.config.js
-├── yarn.lock
+└── yarn.lock
 ```
 
 ## Settings
