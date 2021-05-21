@@ -1,2 +1,8 @@
 node_modules/
 .env
+/tools/parserData/hotelsData/*
+/tools/parserData/output/*
+/tools/parserData/weatherData/*
+!/tools/parserData/hotelsData/.gitkeep
+!/tools/parserData/weatherData/.gitkeep
+!/tools/parserData/output/.gitkeep
