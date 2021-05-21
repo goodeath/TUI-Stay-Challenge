@@ -1,11 +1,17 @@
 import { model, Schema, Model, Document } from 'mongoose';
 
-interface HotelOfferDocument extends Document {
+export interface HotelOfferDocument extends Document {
     id: string;
     adults: number;
     available: boolean;
     roomQuantity: number;
     total: number;
+    hotel: {
+        id: string;
+        name: string;
+        rating: number;
+        cityCode: string;
+    };
 }
 
 const HotelOfferSchema: Schema = new Schema(
@@ -15,6 +21,12 @@ const HotelOfferSchema: Schema = new Schema(
         roomQuantity: { type: Number, required: true },
         total: { type: Number, required: true },
         available: { type: Boolean, required: true },
+        hotel: {
+            id: String,
+            name: String,
+            cityCode: String,
+            rating: Number,
+        },
     },
     { collection: 'hotel-offer' }
 );
