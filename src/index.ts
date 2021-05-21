@@ -1,6 +1,7 @@
 import express from 'express';
 import helmet from 'helmet';
 import { connectToDb } from './config/database';
+import { LogAccessMiddleware } from './middlewares/LogAccessMiddleware';
 import { HotelOfferRouter } from './routers/hotelOfferRouter';
 import { HotelRouter } from './routers/hotelRouter';
 
@@ -8,6 +9,7 @@ const PORT = 4000;
 const app = express();
 
 app.use(helmet());
+app.use(LogAccessMiddleware);
 
 app.use('/hotels', HotelRouter);
 app.use('/offers', HotelOfferRouter);
