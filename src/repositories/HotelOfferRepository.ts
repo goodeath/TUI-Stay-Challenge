@@ -6,6 +6,10 @@ export class HotelOfferRepository {
         query = omitUndefined(query);
         return HotelOffer.find(query);
     }
+
+    public async view(id: string) {
+        return HotelOffer.findOne({ id });
+    }
 }
 
 type QueryParams = {

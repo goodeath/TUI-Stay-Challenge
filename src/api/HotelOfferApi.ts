@@ -21,7 +21,7 @@ export class HotelOfferApi {
 
     public view = async (request: any, response: any): Promise<void> => {
         const { id } = request.params;
-        this.repository.list({ id }).then((data) => response.send(data));
+        this.repository.view(id).then((data) => response.send(data));
     };
 
     public listByHotel = async (request: any, response: any): Promise<void> => {
