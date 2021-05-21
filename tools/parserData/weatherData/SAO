@@ -1,0 +1,170 @@
+{
+  "Headline": {
+    "EffectiveDate": "2021-05-22T08:00:00+01:00",
+    "EffectiveEpochDate": 1621666800,
+    "Severity": 7,
+    "Text": "Cool from Saturday to Saturday night",
+    "Category": "cold",
+    "EndDate": "2021-05-23T08:00:00+01:00",
+    "EndEpochDate": 1621753200,
+    "MobileLink": "http://m.accuweather.com/en/pt/sao-paulo/858642/extended-weather-forecast/858642?lang=en-us",
+    "Link": "http://www.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2021-05-21T07:00:00+01:00",
+      "EpochDate": 1621576800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 49,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 66,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 36,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=1&lang=en-us"
+    },
+    {
+      "Date": "2021-05-22T07:00:00+01:00",
+      "EpochDate": 1621663200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 46,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 61,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 33,
+        "IconPhrase": "Clear",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=2&lang=en-us"
+    },
+    {
+      "Date": "2021-05-23T07:00:00+01:00",
+      "EpochDate": 1621749600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 50,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 67,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 1,
+        "IconPhrase": "Sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 34,
+        "IconPhrase": "Mostly clear",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=3&lang=en-us"
+    },
+    {
+      "Date": "2021-05-24T07:00:00+01:00",
+      "EpochDate": 1621836000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 47,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 67,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=4&lang=en-us"
+    },
+    {
+      "Date": "2021-05-25T07:00:00+01:00",
+      "EpochDate": 1621922400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 50,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 74,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 3,
+        "IconPhrase": "Partly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 33,
+        "IconPhrase": "Clear",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/pt/sao-paulo/858642/daily-weather-forecast/858642?day=5&lang=en-us"
+    }
+  ]
+}

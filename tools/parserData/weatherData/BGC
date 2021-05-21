@@ -1,0 +1,186 @@
+{
+  "Headline": {
+    "EffectiveDate": "2021-05-21T16:00:00-03:00",
+    "EffectiveEpochDate": 1621623600,
+    "Severity": 5,
+    "Text": "Expect showery weather late this afternoon through this evening",
+    "Category": "rain",
+    "EndDate": "2021-05-22T01:00:00-03:00",
+    "EndEpochDate": 1621656000,
+    "MobileLink": "http://m.accuweather.com/en/br/braganca/39633/extended-weather-forecast/39633?lang=en-us",
+    "Link": "http://www.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2021-05-21T07:00:00-03:00",
+      "EpochDate": 1621591200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 74,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 87,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 13,
+        "IconPhrase": "Mostly cloudy w/ showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 39,
+        "IconPhrase": "Partly cloudy w/ showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=1&lang=en-us"
+    },
+    {
+      "Date": "2021-05-22T07:00:00-03:00",
+      "EpochDate": 1621677600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 75,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 91,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 17,
+        "IconPhrase": "Partly sunny w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=2&lang=en-us"
+    },
+    {
+      "Date": "2021-05-23T07:00:00-03:00",
+      "EpochDate": 1621764000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 76,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 91,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=3&lang=en-us"
+    },
+    {
+      "Date": "2021-05-24T07:00:00-03:00",
+      "EpochDate": 1621850400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 75,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 90,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy"
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=4&lang=en-us"
+    },
+    {
+      "Date": "2021-05-25T07:00:00-03:00",
+      "EpochDate": 1621936800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 75,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 90,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 13,
+        "IconPhrase": "Mostly cloudy w/ showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/br/braganca/39633/daily-weather-forecast/39633?day=5&lang=en-us"
+    }
+  ]
+}

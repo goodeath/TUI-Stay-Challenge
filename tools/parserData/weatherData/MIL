@@ -1,0 +1,178 @@
+{
+  "Headline": {
+    "EffectiveDate": "2021-05-24T08:00:00+02:00",
+    "EffectiveEpochDate": 1621836000,
+    "Severity": 2,
+    "Text": "Rain and thunderstorms Monday morning through late Monday night",
+    "Category": "thunderstorm",
+    "EndDate": "2021-05-25T08:00:00+02:00",
+    "EndEpochDate": 1621922400,
+    "MobileLink": "http://m.accuweather.com/en/it/milan/214046/extended-weather-forecast/214046?lang=en-us",
+    "Link": "http://www.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2021-05-21T07:00:00+02:00",
+      "EpochDate": 1621573200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 54,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 72,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=1&lang=en-us"
+    },
+    {
+      "Date": "2021-05-22T07:00:00+02:00",
+      "EpochDate": 1621659600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 54,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 65,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 17,
+        "IconPhrase": "Partly sunny w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=2&lang=en-us"
+    },
+    {
+      "Date": "2021-05-23T07:00:00+02:00",
+      "EpochDate": 1621746000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 55,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 74,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=3&lang=en-us"
+    },
+    {
+      "Date": "2021-05-24T07:00:00+02:00",
+      "EpochDate": 1621832400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 53,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 62,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 18,
+        "IconPhrase": "Rain",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 12,
+        "IconPhrase": "Showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=4&lang=en-us"
+    },
+    {
+      "Date": "2021-05-25T07:00:00+02:00",
+      "EpochDate": 1621918800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 52,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 74,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 12,
+        "IconPhrase": "Showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/it/milan/214046/daily-weather-forecast/214046?day=5&lang=en-us"
+    }
+  ]
+}
