@@ -1,40 +1,21 @@
 import fs from 'fs';
 import path from 'path';
-import { connect as connectDB, connection } from 'mongoose';
-import dotenv from 'dotenv';
-import { Hotel } from '../src/models/Hotel';
-import { HotelOffer } from '../src/models/HotelOffer';
-dotenv.config();
+import { Hotel } from '../../src/models/Hotel';
+import { HotelOffer } from '../../src/models/HotelOffer';
+import {
+    connectToDb,
+    disconnect,
+    dropDatabase,
+} from '../../src/config/database';
 
-const {
-    DB_TEST_HOST,
-    DB_TEST_USER,
-    DB_TEST_PASSWORD,
-    DB_TEST_NAME,
-} = process.env;
-
-const connect = async () => {
-    return connectDB(
-        `mongodb://${DB_TEST_USER}:${DB_TEST_PASSWORD}@${DB_TEST_HOST}:27017/${DB_TEST_NAME}`,
-        {
-            useNewUrlParser: true,
-            useUnifiedTopology: true,
-            authSource: 'admin',
-        }
-    );
-};
-
-const disconnect = async () => {
-    connection.close();
-};
-
-export const beforeTestSuit = async () => {
-    await connect();
-    await connection.db.dropDatabase();
+(async () => {
+    await connectToDb();
+    await dropDatabase();
+    console.log('Database creation started');
 
     const hotels: any[] = JSON.parse(
         fs.readFileSync(
-            path.join(__dirname, '..', 'collections', 'hotel.json'),
+            path.join(__dirname, '..', '..', 'collections', 'hotel.json'),
             {
                 encoding: 'utf8',
             }
@@ -46,7 +27,7 @@ export const beforeTestSuit = async () => {
 
     const hotelOffers: any[] = JSON.parse(
         fs.readFileSync(
-            path.join(__dirname, '..', 'collections', 'hotel-offer.json'),
+            path.join(__dirname, '..', '..', 'collections', 'hotel-offer.json'),
             {
                 encoding: 'utf8',
             }
@@ -75,8 +56,6 @@ export const beforeTestSuit = async () => {
     );
 
     await Promise.all(promises);
-};
-
-export const afterTestSuit = async () => {
+    console.log('Database creation finished');
     await disconnect();
-};
+})();
