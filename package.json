@@ -1,6 +1,7 @@
 {
     "scripts": {
-        "start": "nodemon -e ts,js --exec 'babel-node --extensions \".ts,.js\" src/'"
+        "start": "nodemon -e ts,js --exec 'babel-node --extensions \".ts,.js\" src/'",
+        "generate-data": "babel-node -x .ts ./tools/parserData/ParserData.ts"
     },
     "main": "main.js",
     "browserslist": "> 0.25%, not dead",
