@@ -4,10 +4,13 @@ dotenv.config();
 
 const { DB_HOST, DB_USER, DB_PASSWORD, DB_NAME } = process.env;
 
-export const connectToDb = () => {
-    connect(`mongodb://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:27017/${DB_NAME}`, {
-        useNewUrlParser: true,
-        useUnifiedTopology: true,
-        authSource: 'admin',
-    });
+export const connectToDb = async () => {
+    return connect(
+        `mongodb://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:27017/${DB_NAME}`,
+        {
+            useNewUrlParser: true,
+            useUnifiedTopology: true,
+            authSource: 'admin',
+        }
+    );
 };
