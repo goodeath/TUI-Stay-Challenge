@@ -1,4 +1,4 @@
-import { connect } from 'mongoose';
+import { connect, connection } from 'mongoose';
 import dotenv from 'dotenv';
 dotenv.config();
 
@@ -13,4 +13,12 @@ export const connectToDb = async () => {
             authSource: 'admin',
         }
     );
+};
+
+export const dropDatabase = async () => {
+    return connection.db.dropDatabase();
+};
+
+export const disconnect = async () => {
+    return connection.close();
 };
