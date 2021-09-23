@@ -432,3 +432,6 @@ NOTE: Weather data was hidden in responses to be present in a short way.
 4. Route to find hotels near of user, by getting user geolocation;
 5. Block multiple requests in short time space from same IP to prevent DDoS attacks;
 6. Store cityCode: cityName to be able to put weather and offers data together more easily.
+
+<div style="background:red">test</div>
+<hr />
